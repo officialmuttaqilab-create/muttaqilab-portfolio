@@ -1,0 +1,7 @@
+{
+  "name": "MuttaqiLab Premium Design Portfolio",
+  "description": "A high-end graphic design portfolio for MuttaqiLab featuring a private admin dashboard, premium 'Work With Me' and 'Project Brief' pages, and a bold minimal aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
